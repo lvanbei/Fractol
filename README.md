@@ -1,4 +1,3 @@
 # Fractol
 Fractals render (C)
-
-![Uploading Screen Shot 2020-02-12 at 19.12.40.png…]()
+![img1] https://github.com/lvanbei/Fractol/blob/master/readme_img/img1.png
