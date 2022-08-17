@@ -12,13 +12,11 @@
 
 #include "libft.h"
 
-void	*ft_memmove(void *dest, const void *src, size_t n)
+void *ft_memmove(void *dest, const void *src, size_t n)
 {
-	size_t		i;
-	const char	*src_cast;
-	char		*dest_cast;
+	const char *src_cast;
+	char *dest_cast;
 
-	i = 0;
 	dest_cast = (char *)dest;
 	src_cast = (const char *)src;
 	if (n == 0)
